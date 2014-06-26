@@ -1,0 +1,4 @@
+acme_form_bug:
+    resource: "@AcmeFormBugBundle/Resources/config/routing.xml"
+    prefix:   /
+
